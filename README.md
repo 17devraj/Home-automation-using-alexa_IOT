@@ -49,5 +49,5 @@ A smart home automation system developed during my B.Tech that enables users to 
 - Extend compatibility to **Google Assistant**.
 
 ## 👨‍💻 Author
-**Dev Parmar** | [LinkedIn](https://linkedin.com/in/devrajparmar)
+**Devraj Parmar** | [LinkedIn](https://linkedin.com/in/devrajparmar)
 
