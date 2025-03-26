@@ -50,8 +50,5 @@ A smart home automation system developed during my B.Tech that enables users to 
 
 ## 👨‍💻 Author
 **Dev Parmar**  
-[LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
-
-## 📝 License
-This project is licensed under the [MIT License](LICENSE).
+[LinkedIn](https://linkedin.com/in/devrajparmar)
 
