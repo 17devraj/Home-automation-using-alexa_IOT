@@ -41,7 +41,7 @@ A smart home automation system developed during my B.Tech that enables users to 
 ## 📸 Screenshots
 | **ESP32 Setup** | **Alexa Voice Control** |
 |:---------------:|:----------------------:|
-| ![ESP32](Setup.png) | ![Alexa](assets/images/alexa_command.png) |
+| ![ESP32](setup.png) | ![Alexa](assets/images/alexa_command.png) |
 
 ## 🔮 Future Improvements
 - Add support for **temperature and humidity sensors**.
