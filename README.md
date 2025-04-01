@@ -16,20 +16,20 @@ A smart home automation system developed during my B.Tech that enables users to 
 
 ## 📂 Repository Structure
 ```
-├── main.cpp    # Core logic handling Alexa commands & appliance control
+├── main.ino    # Core logic handling Alexa commands & appliance control
 ├── README.md   # Project documentation
 ```
 
 ## ⚙️ Installation & Setup
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/Home-automation-using-alexa_IOT.git
+   git clone https://github.com/17devraj/Home-automation-using-alexa_IOT.git
    ```
 
 2. **Flash Code to ESP32:**
    - Install **Arduino IDE** or **PlatformIO**.
    - Add ESP32 board support.
-   - Upload `main.cpp` to ESP32.
+   - Upload `main.ino` to ESP32.
 
 3. **Connect to Alexa:**
    - Use an Alexa-compatible IoT service (e.g., Sinric Pro, AWS IoT, or Blynk).
@@ -38,7 +38,7 @@ A smart home automation system developed during my B.Tech that enables users to 
 4. **Test the System:**
    - Say commands like _"Alexa, turn on the light"_ to control connected devices.
 
-## 📸 Screenshots (Optional, if available)
+## 📸 Screenshots
 | **ESP32 Setup** | **Alexa Voice Control** |
 |:---------------:|:----------------------:|
 | ![ESP32](assets/images/esp32.png) | ![Alexa](assets/images/alexa_command.png) |
